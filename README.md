@@ -36,11 +36,7 @@ Class Prediction Error Visual: https://www.scikit-yb.org/en/latest/api/classifie
 
 Classicfication Report Visual: https://www.scikit-yb.org/en/latest/api/classifier/classification_report.html
 
-Receiver Operating Characteristic/Area Under the Curve or ROCAUC Visual: https://www.scikit-yb.org/en/latest/api/classifier/rocauc.html
-
 Confusion Matrix Visual: https://www.scikit-yb.org/en/latest/api/classifier/confusion_matrix.html
-
-Discrimination Threshold Visual: https://www.scikit-yb.org/en/latest/api/classifier/threshold.html
 
 Sklearn Imputer: https://scikit-learn.org/stable/modules/generated/sklearn.impute.SimpleImputer.html
 
