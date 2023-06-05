@@ -1,0 +1,13 @@
+﻿Model,Predictors,Accuracy ,Precsion
+Random Forest,"'venue_code', 'dist', 'fk', 'sot'",0.62456446,0.519362187
+Gradient Boosting,"'venue_code', 'dist', 'fk', 'sot'",0.683797909,0.612732095
+Random Forest,"venue_code', 'pk', 'sh', 'sot'",0.677700348,0.609550562
+Gradient Boosting,"venue_code', 'pk', 'sh', 'sot'",0.694250871,0.638176638
+Random Forest,"venue_code', 'opp_code', 'xg', 'xga'",0.712543554,0.642512077
+Gradient Boosting,"venue_code', 'opp_code', 'xg', 'xga'",0.729965157,0.671641791
+Random Forest,"sh', 'opp_code', 'xg', 'xga'",0.724738676,0.665
+Gradient Boosting,"sh', 'opp_code', 'xg', 'xga'",0.735191638,0.68
+Random Forest,"sh', 'sot', 'xg', 'xga'",0.721254355,0.66
+Gradient Boosting,"sh', 'sot', 'xg', 'xga'",0.757839721,0.721354167
+Random Forest,"poss', 'sot', 'xg', 'xga'",0.716027875,0.648780488
+Gradient Boosting,"poss', 'sot', 'xg', 'xga'",0.761324042,0.71641791
