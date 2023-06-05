@@ -16,17 +16,17 @@ Machine Learning Model Development:
 
 Using the preprocessed data, we will build a predictive model capable of forecasting match outcomes. We will explore various machine learning algorithms in order to determine which algorithm achieves our team's goals based on the training and learning data presented to it. The developed model will be evaluated for accuracy, precision, and F1-score.
 
-Visualization in Tableau:
+Visualization using Yellowbrick:
 
-In order to display our findings and conclusions while working with our machine learning model predictor, we will implement the use of Tableau in order to visualize the models overall success and accuracy as a match outcome predictor.
+In order to display our findings and conclusions while working with our machine learning model predictor, we will implement the use of the Yellowbrick library in order to visualize the models overall success and accuracy as a match outcome predictor.
 
 
 
 References:
 
-Python Libary used for webscraping: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+Python Library used for webscraping: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
-Python Libary used for sorting data: https://pandas.pydata.org/docs/
+Python Library used for sorting data: https://pandas.pydata.org/docs/
 
 Website soccer information scraped from: https://fbref.com/en/
 
