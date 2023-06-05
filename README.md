@@ -24,7 +24,11 @@ In order to display our findings and conclusions while working with our machine 
 
 References:
 
-Webiste used for webscraping: https://fbref.com/en/
+Python Libary used for webscraping: https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
+Python Libary used for sorting data: https://pandas.pydata.org/docs/
+
+Website soccer information scraped from: https://fbref.com/en/
 
 Documentation for machine learning models: https://scikit-learn.org/stable/
 
@@ -39,3 +43,6 @@ Confusion Matrix Visual: https://www.scikit-yb.org/en/latest/api/classifier/conf
 Discrimination Threshold Visual: https://www.scikit-yb.org/en/latest/api/classifier/threshold.html
 
 Sklearn Imputer: https://scikit-learn.org/stable/modules/generated/sklearn.impute.SimpleImputer.html
+
+English Premier League Website: https://www.premierleague.com/
+
