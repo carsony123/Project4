@@ -19,3 +19,16 @@ Using the preprocessed data, we will build a predictive model capable of forecas
 Visualization in Tableau:
 
 In order to display our findings and conclusions while working with our machine learning model predictor, we will implement the use of Tableau in order to visualize the models overall success and accuracy as a match outcome predictor.
+
+
+
+References:
+
+Webiste used for webscraping: https://fbref.com/en/
+Documentation for machine learning models: https://scikit-learn.org/stable/
+Class Prediction Error Visual: https://www.scikit-yb.org/en/latest/api/classifier/class_prediction_error.html
+Classicfication Report Visual: https://www.scikit-yb.org/en/latest/api/classifier/classification_report.html
+Receiver Operating Characteristic/Area Under the Curve or ROCAUC Visual: https://www.scikit-yb.org/en/latest/api/classifier/rocauc.html
+Confusion Matrix Visual: https://www.scikit-yb.org/en/latest/api/classifier/confusion_matrix.html
+Discrimination Threshold Visual: https://www.scikit-yb.org/en/latest/api/classifier/threshold.html
+Sklearn Imputer: https://scikit-learn.org/stable/modules/generated/sklearn.impute.SimpleImputer.html
